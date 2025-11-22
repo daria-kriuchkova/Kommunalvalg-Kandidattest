@@ -7,7 +7,7 @@ Last week I got an invitation to vote in Kommunalvalg in Copenhagen. I was excit
 
 For people like me Danish news outlets like [DR](https://www.dr.dk/nyheder/politik/kommunalvalg/kandidattest) and [TV2](https://nyheder.tv2.dk/kandidattest) created tests designed to help you find the candidates whose views on the hottest issues align the most with yours. I took them both and got some recommendations, but didn't feel very aligned with my top suggestions.
 
-So, as a responsible voter and statistician, I decided to use the published answers to **make my own test** and see if I get different results.
+So, I decided to use the published answers to make my own test and see if I get different results.
 
   
 ### Who is this for
